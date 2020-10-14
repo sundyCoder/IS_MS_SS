@@ -132,20 +132,4 @@ if __name__ == '__main__':
     parser.add_argument('--num_splits', default=10)
     args = parser.parse_args()
     main(args)
-'''
-5gan:
 
-10gan:
-result:
-avg:
-Inception mean:  5.603198387119765
-Inception std:  0.14994197234609344
-
-mmd:
-Inception mean:  5.360187268297637
-Inception std:  0.20492765590352968
-	
-mdgan:
-Inception mean:  5.540832043452577
-Inception std:  0.2131722548484874
-'''
