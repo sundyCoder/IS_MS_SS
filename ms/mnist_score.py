@@ -132,16 +132,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
     main(args)
 
-
-'''
-5gan:
-    avg:
-        Inception mean:  4.914344610788481
-        Inception std:  0.23576682113989486
-    mmd:
-        Inception mean:  5.176995156492626
-        Inception std:  0.2729022959078282
-    mdgan:
-        Inception mean:  6.790845002001021
-        Inception std:  0.24993071111665943
-'''
